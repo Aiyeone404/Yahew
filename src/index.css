@@ -1,0 +1,82 @@
+
+#box-nav >img{
+    margin-left: 600px;
+}
+body{
+    background-image:linear-gradient( to left, #2290e9,#ee8f3c);
+    margin: 0;
+    padding: 0;
+}
+#box-inicio{
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+}
+.box-palavra{
+    background-color: #F2CF63;
+    box-shadow:3px 2px 2px 3px #F29441;
+    border-radius: 10px;
+    height: 30px;
+}
+.seg-palavra{
+    background-color: #F2CF63;
+    box-shadow: 3px 2px 2px 3px #F29441;
+    border-radius: 10px;
+    height:auto;
+}
+.palavra-Inicio{
+    font-size: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#jesus-i{
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+}
+#box-jesus{
+margin-top: 100px;
+display: flex;
+align-items: center;
+flex-direction: column;
+}
+#palavra-jesus{
+    font-size: 20px;
+    margin-top: 4px;
+    background-color: #F2CF63;
+    box-shadow:3px 2px 2px 3px #F29441;
+    border-radius: 10px;
+}
+.versiculo{
+    font-weight: bold;
+    text-decoration: underline;
+}
+#box-footer{
+    background-color: black;
+    text-align: center;
+    margin-top:175px;
+}
+#footer{
+    color: white;
+}
+#box-pos{
+    margin-top: 10px;
+    width:80%;
+}
+i{
+    padding-right: 10px;
+}
+#box-video{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-top: 60px;
+    padding-left: 370px;
+    background-image: linear-gradient(to left,#F2CF63,#F29441);
+    border-radius: 10px;
+}
+#box-video>iframe{
+    margin: 5px;
+    border-radius: 10px;
+}
