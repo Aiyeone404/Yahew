@@ -17,10 +17,10 @@ Site desenvolvido com o objetivo de compartilhar a Palavra de Deus, inspirado na
 ## 📸 Prints do Site
 
 ### 🏠 Página Inicial
-![Página inicial](./img/previa-img/img-1.png)
+![Página inicial](img/previa-img/img-1.png)
 
 ### 📖 Página com Versículos / Conteúdo
-![Página de conteúdo](./img/previa-img/img-2.png)
+![Página de conteúdo](img/previa-img/img-2.png)
 
 *(Edite os nomes dos arquivos se forem diferentes, e adicione mais prints se quiser)*
 
